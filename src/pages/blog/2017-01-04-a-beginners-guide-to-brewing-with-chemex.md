@@ -1,25 +1,22 @@
 ---
 templateKey: blog-post
-path: /brewing-chemex
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+path: /meetup-002
+title: 'minnyScript Meetup #002'
+date: 2016-10-11T09:04:10-05:00
+description: |+
 ---
-![chemex](/img/chemex.jpg)
+`[enter notes for meetup 2]`
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+event description for reference:
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Hey everyone,
 
-## The little secrets of Chemex brewing
+Thanks to all that came out to our first meeting yesterday afternoon! We talked through each other's experience with software development and what we're each looking for out of this group. Specifically, there's an app that Substance could use our help with, and we'll be talking through it more at our next meeting.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+We'll be meeting at Brookdale Library in Study Room I. It's a bit out of the way of everyone on the East and South end of town, but as we begin to schedule meetings more in advance, I'll be able to snag some rooms in the Roseville or Minneapolis libraries.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Hope to see you there! Bring your laptops, charging cords, and anything else you'd like for brainstorming and talking through projects at a high level.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+\- Karl & Rick
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+ps. I reserved the room from 6:30-9, but we won't start the actual meeting until 7pm. I just added an extra half hour for anyone that wants to hang out beforehand. Call/text Karl at 612-751-8808 if you have trouble finding us.
