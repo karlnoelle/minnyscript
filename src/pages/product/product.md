@@ -1,14 +1,11 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Technologies
 image: /img/jumbotron.jpg
-heading: What we offer
+heading: Technologies used
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Today's developers utilize several different technologies to get their jobs done. The app we're building is no different, and will rely on the following Javascript frameworks and engines to run.
 intro:
   blurbs:
     - image: /img/coffee.png

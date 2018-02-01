@@ -1,19 +1,17 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About minnyScript
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### We love code
+`minnyScript` is open to all; from seasoned developers to people exploring a new hobby, or for the person that wants to know how a digital product works. There's a never-ending supply of new things to learn and our mission is to learn together!
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Teaching
+At the meetups, our goal is to have everyone learn something new, whether it's a Javascript method, design tip or simply figuring out what *x* framework does.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Iteration
+We think iteration is one of the best ways to learn and grow in any field, especially when it comes to software development. The first solution is likely never the best solution, so we'll always be looking for new feedback and approaches to solving problems.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Real-world skills
+The things taught and covered at minnyScript aren't some vague, edge-case technologies that only serve a small percentage of projects. Technologies like Javascript, Node, Express and others are widely-utilized by the world's largest software companies. That means jobs! We would love nothing more than to equip you with the skills and talent required to land your next dream job in software.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
