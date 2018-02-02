@@ -19,11 +19,11 @@ const Navbar = () => (
           About
         </Link>
         <Link className="navbar-item" to="/tech">
-          Products
+          Tech
         </Link>
       </div>
       <div className="navbar-end">
-        <a className="navbar-item" href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate" target="_blank" rel="noopener noreferrer">
+        <a className="navbar-item" href="https://github.com/karlnoelle/minnyscript" target="_blank" rel="noopener noreferrer">
           <span className="icon">
             <img src={github} alt="Github" />
           </span>
