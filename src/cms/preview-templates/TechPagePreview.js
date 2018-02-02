@@ -1,7 +1,7 @@
 import React from 'react';
-import { ProductPageTemplate } from '../../templates/product-page';
+import { TechPageTemplate } from '../../templates/tech-page';
 
-const ProductPagePreview = ({ entry, getAsset }) => {
+const TechPagePreview = ({ entry, getAsset }) => {
   const entryBlurbs = entry.getIn(['data', 'intro', 'blurbs']);
   const blurbs = entryBlurbs ? entryBlurbs.toJS() : [];
 
@@ -12,7 +12,7 @@ const ProductPagePreview = ({ entry, getAsset }) => {
   const pricingPlans = entryPricingPlans ? entryPricingPlans.toJS() : [];
 
   return (
-    <ProductPageTemplate
+    <TechPageTemplate
       image={entry.getIn(['data', 'image'])}
       title={entry.getIn(['data', 'title'])}
       heading={entry.getIn(['data', 'heading'])}
@@ -45,4 +45,4 @@ const ProductPagePreview = ({ entry, getAsset }) => {
   );
 };
 
-export default ProductPagePreview;
+export default TechPagePreview;
