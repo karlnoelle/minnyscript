@@ -1,0 +1,22 @@
+{
+  "name": "minnyscript-code-challenge",
+  "version": "0.0.0",
+  "description": "Code Challenges for MinnyScript",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlnoelle/minnyscript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlnoelle/minnyscript/issues"
+  },
+  "homepage": "https://github.com/karlnoelle/minnyscript#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
