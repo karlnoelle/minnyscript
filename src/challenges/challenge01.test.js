@@ -1,3 +1,5 @@
 require('../test-harness');
 
-verify(0, 'input');
+describe('challenge', () => {
+	verify(0, 'input');
+});
