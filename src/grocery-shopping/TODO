@@ -1,0 +1,14 @@
+// total cost of purchase
+	- add coupons to modify prices
+// load item prices via CSV
+/**
+parseItemPrices
+ * @param input string, one item per line of comma-separated values:
+ * item name, unit price
+ * @returns {object} whose keys are item names and whose values are unit prices.
+ */
+// aisles?
+	- find all items in an aisle
+	- sort all items by aisle then alphabetical
+	- given list: show sorted by aisle then alphabetical
+
